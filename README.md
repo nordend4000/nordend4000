@@ -10,7 +10,7 @@ My challenge is to turn this enthusiasm and commitment into a
 professional activity, gain experiences by
 creating complex projects and join an ambitious team.
 
-[![ezy-currency](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647000989/images/portfolio_copie_hvfwh6.png)](https://github.com/nordend4000/ezy-currency)
+[![Portfolio](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647000989/images/portfolio_copie_hvfwh6.png)](https://github.com/nordend4000/portfolio)[![ezy-currency](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647000989/images/portfolio_copie_hvfwh6.png)](https://github.com/nordend4000/ezy-currency)
 
 
    Portfolio : https://romaingioux.dev
