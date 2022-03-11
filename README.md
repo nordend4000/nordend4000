@@ -10,4 +10,4 @@ My challenge is to turn this enthusiasm and commitment into a
 professional activity, gain experiences by
 creating complex projects and join an ambitious team.
 
-romaingiouxdev@gmail.com
+romaingiouxdev@gmail.com               https://romaingioux.dev
