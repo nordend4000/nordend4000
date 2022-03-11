@@ -10,7 +10,7 @@ My challenge is to turn this enthusiasm and commitment into a
 professional activity, gain experiences by
 creating complex projects and join an ambitious team.
 
-[![ezy-currency](https://repo2image.turnerj.com/Turnerj/LevenshteinBenchmarks.png)](https://github.com/nordend4000/ezy-currency)
+[![ezy-currency]](https://github.com/nordend4000/ezy-currency)
 
    Portfolio : https://romaingioux.dev
 
