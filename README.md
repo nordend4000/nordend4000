@@ -1,4 +1,4 @@
-Hi there, I'm <bold>Romain GIOUX</bold> an inspired self-taught
+Hi there, I'm <b>Romain GIOUX</b> an inspired self-taught
 Web Developer based in Zurich, Switzerland.
 
 I love discovering new technologies and Solving Digital Puzzles.
