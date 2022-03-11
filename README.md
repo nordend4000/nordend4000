@@ -14,10 +14,22 @@ creating complex projects and join an ambitious team.
  <a href="https://github.com/nordend4000/portfolio"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647000989/images/portfolio_copie_hvfwh6.png" alt="E-commerce website"/></a>
 
 <a href="https://github.com/nordend4000/rebecca-anderson-photography">E-Commerce Website</a>
-[![rebecca-anderson-photography](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001941/images/Capture_d_%C3%A9cran_2022-03-11_%C3%A0_13.31.16_2_cblkuj.png)](https://github.com/nordend4000/rebecca-anderson-photography)
+[![rebecca-anderson-photography](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647004040/images/ecomerce_h0ubyf.png)](https://github.com/nordend4000/rebecca-anderson-photography)
 
-<a href="https://github.com/nordend4000/rebecca-anderson-photography">E-Commerce Website</a>
-[![rebecca-anderson-photography](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001941/images/Capture_d_%C3%A9cran_2022-03-11_%C3%A0_13.31.16_2_cblkuj.png)](https://github.com/nordend4000/rebecca-anderson-photography)
+<a href="https://github.com/nordend4000/never-alone">Community Network</a>
+[![never-alone](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647004492/images/neveralone_brkh9q.png)](https://github.com/nordend4000/never-alone)
+
+<a href="https://github.com/nordend4000/ezy-converter">Currency Converter</a>
+[![ezy-converter](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647004041/images/currency_yb9jvs.png)](https://github.com/nordend4000/ezy-converter)
+
+<a href="https://github.com/nordend4000/ezy-weather">Weather App</a>
+[![ezy-weather](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647004041/images/weather_zixshk.png)](https://github.com/nordend4000/ezy-weather)
+
+<a href="https://github.com/nordend4000/my-time-line-calendar">Calendar App</a>
+[![my-time-line-calendar](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647004041/images/calendar_zaezxw.png)](https://github.com/nordend4000/my-time-line-calendar)
+
+<a href="https://github.com/nordend4000/paraglidinglogbook">Logbook App</a>
+[![paraglidinglogbook](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647004041/images/logbook_ooelej.png)](https://github.com/nordend4000/paraglidinglogbook)
 
 
 
