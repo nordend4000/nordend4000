@@ -11,7 +11,7 @@ gain experiences by creating complex projects and join an ambitious team. ðŸ”¥ ð
 
 
 <img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012076/images/FEATURED_PROJECTS_BUILT_FROM_SCRATCH_qlqtwx.png" alt="FEATURED PROJECTS BUILT FROM SCRATCH"/>
---------------------------------------------------------------------------------------
+
 
  [![portfolio2](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005684/images/portfolio_copie_2_t9gpcr.png)](https://github.com/nordend4000/portfolio2) 
  <div> <a href="https://github.com/nordend4000/portfolio"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001299/images/reb-desktop_copie_pv7caq.png" alt="Portfolio : Web Developer"/></a></div>
