@@ -1,4 +1,4 @@
-Hi there, I'm <h2>Romain GIOUX</h2> an inspired self-taught
+Hi there, I'm ##Romain GIOUX an inspired self-taught
 Web Developer based in Zurich, Switzerland.
 
 I love discovering new technologies and Solving Digital Puzzles.
@@ -9,7 +9,7 @@ My challenge is to turn this enthusiasm and commitment into a professional activ
 creating complex projects and join an ambitious team.
 
 ---------------------------------------------------------------------------------------
-                                <h2>FEATURED PROJECTS</h2>
+                         FEATURED PROJECTS BUILT FROM SCRATCH
 ---------------------------------------------------------------------------------------
 
  [![portfolio](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005684/images/portfolio_copie_2_t9gpcr.png)](https://github.com/nordend4000/portfolio) 
