@@ -10,7 +10,7 @@ My challenge is to turn this enthusiasm and commitment into a professional activ
 gain experiences by creating complex projects and join an ambitious team. 🔥 😎 🪂
 
 
-<img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647013328/images/FEATURED_PROJECTS_BUILT_FROM_SCRATCH-2_u1ycvp.png" alt="FEATURED PROJECTS BUILT FROM SCRATCH"/>
+<img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647013779/images/Frame_3_lyduff.png" alt="FEATURED PROJECTS BUILT FROM SCRATCH"/>
 
 
  [![portfolio2](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005684/images/portfolio_copie_2_t9gpcr.png)](https://github.com/nordend4000/portfolio2) 
