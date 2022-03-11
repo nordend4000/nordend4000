@@ -3,20 +3,19 @@ Web Developer based in Zurich, Switzerland.
 
 I love discovering new technologies and Solving Digital Puzzles.
 Aiming for a career reconversion, since the last 2 years,  
-I didn't stop to learn how the Web is Built and how I can contribute 
-to make it a pleasant space.
+I didn't stop to learn how the Web is Built and how I can contribute to make it a pleasant space.
     
-My challenge is to turn this enthusiasm and commitment into a
-professional activity, gain experiences by
+My challenge is to turn this enthusiasm and commitment into a professional activity, gain experiences by
 creating complex projects and join an ambitious team.
 
 ---------------------------------------------------------------------------------------
                                 FEATURED PROJECTS
 ---------------------------------------------------------------------------------------
 
+<a href="https://github.com/nordend4000/portfolio">Portfolio</a>
  [![portfolio](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005684/images/portfolio_copie_2_t9gpcr.png)](https://github.com/nordend4000/portfolio) 
  <div> <a href="https://github.com/nordend4000/portfolio"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001299/images/reb-desktop_copie_pv7caq.png" alt="Portfolio : Web Developer"/></a></div>
-<a href="https://github.com/nordend4000/portfolio">Portfolio</a>
+
 
 ---------------------------------------------------------------------------------------
 
