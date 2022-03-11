@@ -10,11 +10,11 @@ My challenge is to turn this enthusiasm and commitment into a professional activ
 gain experiences by creating complex projects and join an ambitious team. 🔥 😎 🪂
 
 
-<img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647013779/images/Frame_3_lyduff.png" alt="FEATURED PROJECTS BUILT FROM SCRATCH"/>
+<img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647014577/images/Frame_3_sfq9fw.png" alt="FEATURED PROJECTS BUILT FROM SCRATCH"/>
 
 
  [![portfolio2](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005684/images/portfolio_copie_2_t9gpcr.png)](https://github.com/nordend4000/portfolio2) 
- <div> <a href="https://github.com/nordend4000/portfolio"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001299/images/reb-desktop_copie_pv7caq.png" alt="Portfolio : Web Developer"/></a></div>
+ <div> <a href="https://github.com/nordend4000/portfolio2"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647000989/images/portfolio_copie_hvfwh6.png" alt="Portfolio : Web Developer"/></a></div>
 <a href="https://github.com/nordend4000/portfolio2"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012988/images/Frame_2-8_fvkoxz.png" alt="Portfolio : Web Developer"/></a>
 
 ---------------------------------------------------------------------------------------
