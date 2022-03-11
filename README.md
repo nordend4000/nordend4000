@@ -11,15 +11,8 @@ professional activity, gain experiences by
 creating complex projects and join an ambitious team.
 
 
-<a href="https://github.com/nordend4000/rebecca-anderson-photography"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001299/images/reb-desktop_copie_pv7caq.png" alt="E-commerce website"/>E-Commerce Website</a>
-<div>E-Commerce Website</div>
- 
-
-[![Portfolio](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647000989/images/portfolio_copie_hvfwh6.png)](https://github.com/nordend4000/portfolio)[![rebecca-anderson-photography](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001299/images/reb-desktop_copie_pv7caq.png)](https://github.com/nordend4000/rebecca-anderson-photography)
-
-
    Portfolio : https://romaingioux.dev
 
    Email : romaingiouxdev@gmail.com  
    
-<img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> 
+
