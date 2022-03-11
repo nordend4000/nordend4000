@@ -10,8 +10,11 @@ My challenge is to turn this enthusiasm and commitment into a
 professional activity, gain experiences by
 creating complex projects and join an ambitious team.
 
-[![ezy-currency]](https://github.com/nordend4000/ezy-currency)
+[![ezy-currency](http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg)](https://github.com/nordend4000/ezy-currency)
+
 
    Portfolio : https://romaingioux.dev
 
-   Email : romaingiouxdev@gmail.com            
+   Email : romaingiouxdev@gmail.com  
+   
+<img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> 
