@@ -11,7 +11,7 @@ professional activity, gain experiences by
 creating complex projects and join an ambitious team.
 
 <div>E-Commerce Website</div>
-<div><a href="https://github.com/nordend4000/rebecca-anderson-photography"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001941/images/Capture_d_%C3%A9cran_2022-03-11_%C3%A0_13.31.16_2_cblkuj.png" alt="E-commerce website"/></a></div>
+<div><a href="https://github.com/nordend4000/rebecca-anderson-photography"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647002159/images/Capture_d_%C3%A9cran_2022-03-11_%C3%A0_13.31.16_2_ozgkqn.png" alt="E-commerce website"/></a></div>
 <div>
 <a href="https://github.com/nordend4000/rebecca-anderson-photography"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001299/images/reb-desktop_copie_pv7caq.png" alt="E-commerce website"/></a></div>
 
