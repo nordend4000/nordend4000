@@ -16,7 +16,7 @@ creating complex projects and join an ambitious team.
     
 <a href="https://github.com/nordend4000/rebecca-anderson-photography">E-Commerce Website</a>
 [![rebecca-anderson-photography](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005684/images/ecomerce_copie_pnkwyw.png)](https://github.com/nordend4000/rebecca-anderson-photography)
- <a href="https://github.com/nordend4000/rebecca-anderson-photography"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001299/images/reb-desktop_copie_pv7caq.png" alt="E-commerce website"/></a>
+<div> <a href="https://github.com/nordend4000/rebecca-anderson-photography"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001299/images/reb-desktop_copie_pv7caq.png" alt="E-commerce website"/></a></div>
 
 <a href="https://github.com/nordend4000/never-alone">Community Network</a>
 [![never-alone](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005684/images/neveralone_copie_2_mlevtt.png)](https://github.com/nordend4000/never-alone)
