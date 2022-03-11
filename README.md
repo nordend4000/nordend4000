@@ -19,39 +19,39 @@ gain experiences by creating complex projects and join an ambitious team. ðŸ”¥ ð
 
 ---------------------------------------------------------------------------------------
 
+<a href="https://github.com/nordend4000/rebecca-anderson-photography"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012833/images/Frame_2-2_ro9vc5.png" alt="E-commerce website"/></a>
  [![rebecca-anderson-photography](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005684/images/ecomerce_copie_pnkwyw.png)](https://github.com/nordend4000/rebecca-anderson-photography) 
  <div> <a href="https://github.com/nordend4000/rebecca-anderson-photography"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001299/images/reb-desktop_copie_pv7caq.png" alt="E-commerce website"/></a></div>
-<a href="https://github.com/nordend4000/rebecca-anderson-photography"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012833/images/Frame_2-2_ro9vc5.png" alt="E-commerce website"/></a>
 
 ---------------------------------------------------------------------------------------
 
+ <a href="https://github.com/nordend4000/never-alone"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012833/images/Frame_2-5_qdozj3.png" alt="Community Network"/></a>
 [![never-alone](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005684/images/neveralone_copie_2_mlevtt.png)](https://github.com/nordend4000/never-alone)
  <div><a href="https://github.com/nordend4000/never-alone"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001324/images/neveralone_copie_t6usfv.png" alt="Community Network"/></a></div>
- <a href="https://github.com/nordend4000/never-alone"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012833/images/Frame_2-5_qdozj3.png" alt="Community Network"/></a>
  
 ---------------------------------------------------------------------------------------
 
+<a href="https://github.com/nordend4000/ezy-currency"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012833/images/Frame_2-3_oudyhf.png" alt="Currency Converter"/></a>  
 [![ezy-currency](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005684/images/currency_copie_2_vydzds.png)](https://github.com/nordend4000/ezy-currency) 
 <div><a href="https://github.com/nordend4000/ezy-currency"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001200/images/currency_copie_clqej6.png" alt="Currency Converter"/></a></div>
-<a href="https://github.com/nordend4000/ezy-currency"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012833/images/Frame_2-3_oudyhf.png" alt="Currency Converter"/></a>  
 
 ---------------------------------------------------------------------------------------
 
+  <a href="https://github.com/nordend4000/ezy-weather"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012833/images/Frame_2-4_v6zmtl.png" alt="Weather App"/></a>
 [![ezy-weather](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005684/images/weather_copie_cc4ijh.png)](https://github.com/nordend4000/ezy-weather)
   <div><a href="https://github.com/nordend4000/ezy-weather"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001237/images/ezy_copie_lutunx.png" alt="Weather App"/></a></div>
-  <a href="https://github.com/nordend4000/ezy-weather"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012833/images/Frame_2-4_v6zmtl.png" alt="Weather App"/></a>
   
 ---------------------------------------------------------------------------------------
 
+  <a href="https://github.com/nordend4000/my-time-line-calendar"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012833/images/Frame_2-6_ev8hal.png" alt="Calendar App"/></a>
 [![my-time-line-calendar](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005684/images/calendar_copie_2_okm1ws.png)](https://github.com/nordend4000/my-time-line-calendar)
  <div><a href="https://github.com/nordend4000/my-time-line-calendar"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001265/images/calendar_copie_cdiypo.png" alt="Calendar App"/></a></div>
-  <a href="https://github.com/nordend4000/my-time-line-calendar"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012833/images/Frame_2-6_ev8hal.png" alt="Calendar App"/></a>
   
 ---------------------------------------------------------------------------------------
 
+<a href="https://github.com/nordend4000/paraglidinglogbook"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012833/images/Frame_2-7_shagti.png" alt="Logbook App"/></a>
 [![paraglidinglogbook](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647005685/images/logbook_copie_2_hic3mo.png)](https://github.com/nordend4000/paraglidinglogbook)
   <div><a href="https://github.com/nordend4000/paraglidinglogbook"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647001279/images/logbook_copie_joybfe.png" alt="Logbook App"/></a><div>
-<a href="https://github.com/nordend4000/paraglidinglogbook"><img src="https://res.cloudinary.com/dokbrxcp2/image/upload/v1647012833/images/Frame_2-7_shagti.png" alt="Logbook App"/></a>
 
 ---------------------------------------------------------------------------------------
 
