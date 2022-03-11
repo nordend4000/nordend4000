@@ -10,7 +10,7 @@ My challenge is to turn this enthusiasm and commitment into a
 professional activity, gain experiences by
 creating complex projects and join an ambitious team.
 
-[![ezy-currency](http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg)](https://github.com/nordend4000/ezy-currency)
+[![ezy-currency](https://res.cloudinary.com/dokbrxcp2/image/upload/v1647000485/images/reb-desktop_ytinrm.png)](https://github.com/nordend4000/ezy-currency)
 
 
    Portfolio : https://romaingioux.dev
